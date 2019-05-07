@@ -1,0 +1,4 @@
+#Fri Apr 05 23:32:52 PDT 2019
+base.0=/Users/mac_mojave_2019/Documents/Project/Todo/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
